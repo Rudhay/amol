@@ -1,7 +1,10 @@
 Resume
 Mr. Dnyaneshwar Chaudhari
+
 Email: chaudharidnyaneshwar399@gmail.com
+
 Contact No : 7249684807
+
 Java Developer
 OBJECTIVE:
 Detail-oriented, enthusiast, motivated individual with over 2 years of experience in IT, intend to build
